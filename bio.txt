@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Getnet Kebede is Mechanical engineer in Toronto.
 On his free time, he likes watching sci-fi and historical moveies
 He also likes listening to Bible stories.
+=======
+Getnet Kebede is allergic to Wheat
+I like tea
+>>>>>>> 491edfa124dd5b22b5a65e1ebf12164daee5a2f4
