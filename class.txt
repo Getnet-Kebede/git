@@ -1,0 +1,2 @@
+This class is about Git.
+We are enjoying it despite the late hour.
